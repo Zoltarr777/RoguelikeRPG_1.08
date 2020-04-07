@@ -25,7 +25,7 @@ cd R*
 python3 engine.py
 
 
-PC:
+**PC:**
 
 Open command prompt:
 
@@ -42,17 +42,17 @@ Type: py engine.py
 
 ############################
 
-Alpha 1.08 - 4/06/20
+**Alpha 1.08 - 4/06/20**
 * Added Sleep Spell
 * Added Sleep Aura Spell
 
-Alpha 1.07 - 3/31/20
+**Alpha 1.07 - 3/31/20**
 * Added m key bind for magic wand
 * Added magic wand to help menu
 * Decreased health potion spawn
 * Decreased health potion healing amount
 
-Alpha 1.06 - 3/31/20
+**Alpha 1.06 - 3/31/20**
 * Added Main Screen Help Menu
 * Added Magic Wand item (upgrades with magic skill!)
 * Added goblins!
