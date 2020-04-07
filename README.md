@@ -1,4 +1,4 @@
-RoguelikeRPG Alpha 1.08
+**RoguelikeRPG Alpha 1.08**
 
 Installation Instructions:
 
