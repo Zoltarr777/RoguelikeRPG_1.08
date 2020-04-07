@@ -6,7 +6,7 @@ Download Python 3 here: https://www.python.org/downloads/
 
 Install Libtcod:
 
-MAC:
+**MAC:**
 
 Open Terminal
 
