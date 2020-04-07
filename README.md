@@ -33,6 +33,12 @@ Type: py -m pip install tcod
 
 Download all game files and save to desktop
 
+Open command prompt and type to open:
+
+cd D*
+
+cd R*
+
 Type: py engine.py
 
 
